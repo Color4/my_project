@@ -1,0 +1,3002 @@
+[
+    {
+        "": "rs104894086(T;T)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs104894086(A;A)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs193922393(-;-)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs786205451(A;A)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Epidermolysis bullosa (predicted)"
+    }, 
+    {
+        "": "rs387907235(T;T)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs137852689(C;C)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs137852690(T;T)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs104894085(T;T)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs104894087(A;A)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs104894089(A;A)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs104894090(T;T)", 
+        "magnitude": "9.1", 
+        "repute": "Bad", 
+        "summary": "Lipoid congenital adrenal hyperplasia (LCAH); treatment required"
+    }, 
+    {
+        "": "rs661(A;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs137853055(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs137853056(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs137853057(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs137853058(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs137853059(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs137853060(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs661(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs34424986(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs74435397(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Bowen-Conradi syndrome (predicted)"
+    }, 
+    {
+        "": "rs80338859(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Miscall for 23andMe customers; otherwise, Smith-Lemli-Opitz syndrome"
+    }, 
+    {
+        "": "rs267607059(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Glut1 Deficiency (predicted)"
+    }, 
+    {
+        "": "rs267607036(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Pontocerebellar hypoplasia type 2D"
+    }, 
+    {
+        "": "rs267607035(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Pontocerebellar hypoplasia type 2D"
+    }, 
+    {
+        "": "rs121918141(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918142(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918143(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918144(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918146(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918147(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918148(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918149(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918150(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918151(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918152(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918153(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918154(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918155(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918156(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918157(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918158(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918159(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs121918160(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs387906675(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Protein-S deficiency; severe"
+    }, 
+    {
+        "": "rs587777465(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Pontocerebellar hypoplasia type 2E"
+    }, 
+    {
+        "": "rs587777466(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Pontocerebellar hypoplasia type 2E"
+    }, 
+    {
+        "": "rs28941778(A;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Denys-Drash syndrome"
+    }, 
+    {
+        "": "rs28941779(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Frasier syndrome mutation"
+    }, 
+    {
+        "": "rs28942089(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Denys-Drash syndrome"
+    }, 
+    {
+        "": "rs267606795(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Raine syndrome"
+    }, 
+    {
+        "": "rs63749851(A;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750215(A;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs28936379(A;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs28936380(C;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs63749885(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63749891(C;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750577(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750599(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750815(G;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750886(C;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750900(A;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751141(C;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751144(A;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751163(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751223(C;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751229(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751320(A;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63751068(G;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Picks disease of the brain"
+    }, 
+    {
+        "": "rs63751037(A;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs142742242(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs200322968(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Orofaciodigital syndrome likely"
+    }, 
+    {
+        "": "rs786205156(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Lipoyltransferase 1 deficiency (severe)"
+    }, 
+    {
+        "": "rs757583846(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs397514694(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs397518439(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs149989682(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Surfactant metabolism dysfunction, pulmonary, 3; severe neonatal condition"
+    }, 
+    {
+        "": "rs74315405(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs137853054(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs751037529(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Early-onset (juvenile) Parkinson's disease likely"
+    }, 
+    {
+        "": "rs869025342(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Infantile hypotonia with psychomotor retardation"
+    }, 
+    {
+        "": "rs137973334(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Lipoyltransferase 1 deficiency"
+    }, 
+    {
+        "": "rs767568897(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Lipoyltransferase 1 deficiency (severe)"
+    }, 
+    {
+        "": "rs137891647(G;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Lipoyltransferase 1 deficiency (severe)"
+    }, 
+    {
+        "": "rs201662623(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Orofaciodigital syndrome likely"
+    }, 
+    {
+        "": "rs150681845(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Orofaciodigital syndrome likely"
+    }, 
+    {
+        "": "rs373900644(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Orofaciodigital syndrome likely"
+    }, 
+    {
+        "": "rs200649783(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Orofaciodigital syndrome likely"
+    }, 
+    {
+        "": "rs398122415(-;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Prader-Willi-like syndrome; Schaaf-Yang syndrome"
+    }, 
+    {
+        "": "rs398122416(-;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Prader-Willi-like syndrome; Schaaf-Yang syndrome"
+    }, 
+    {
+        "": "rs398122417(-;AT)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Prader-Willi-like syndrome; Schaaf-Yang syndrome"
+    }, 
+    {
+        "": "rs398122418(C;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Prader-Willi-like syndrome; Schaaf-Yang syndrome"
+    }, 
+    {
+        "": "rs770374710(-;G)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Prader-Willi-like syndrome; Schaaf-Yang syndrome"
+    }, 
+    {
+        "": "rs779709646(T;T)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Smith-Lemli-Opitz syndrome"
+    }, 
+    {
+        "": "rs773876739(C;C)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "Pontocerebellar hypoplasia type 2D"
+    }, 
+    {
+        "": "rs114925667(A;A)", 
+        "magnitude": "9", 
+        "repute": "Bad", 
+        "summary": "early infantile epileptic encephalopathy-44"
+    }, 
+    {
+        "": "rs756677845(-;-)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs730880302(TTAG;TTAG)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs28940284(A;A)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs28940285(C;C)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs45539432(T;T)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset; likely"
+    }, 
+    {
+        "": "rs119451946(T;T)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset; likely"
+    }, 
+    {
+        "": "rs74315355(A;A)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs74315356(A;A)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs74315357(T;T)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs74315358(A;A)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs74315359(T;T)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs74315360(A;A)", 
+        "magnitude": "8.9", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 6, early-onset"
+    }, 
+    {
+        "": "rs28942071(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs28941771(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907952(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907953(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907954(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907955(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907956(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907957(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907958(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907959(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907961(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907962(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907963(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907964(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907965(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907966(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907967(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907968(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907969(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907971(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907972(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907973(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907974(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907975(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907976(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907977(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907978(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907979(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907980(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907981(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121918248(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918249(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918251(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918252(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918253(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918254(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918256(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918257(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121918258(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs121964974(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs121964977(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs121964978(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs121964979(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs121964980(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs111033623(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033624(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033625(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033626(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033627(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033628(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033629(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs111033630(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs119455955(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "CLN2 disease (predicted)"
+    }, 
+    {
+        "": "rs367543046(AAA;AAA)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Fumarase deficiency (predicted)"
+    }, 
+    {
+        "": "rs149070244(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs28941770(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs28941770(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121964976(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs121964975(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs786204585(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs786204721(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs779990936(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs140600746(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs777758903(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309739(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309738(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs753288303(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs772552898(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309737(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309734(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309736(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs778702777(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309733(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs864309735(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs761773115(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs863225434(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs772180415(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs770932296(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs797044432(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs564069299(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs200596762(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs760782399(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs56144125(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "CLN2 disease (predicted)"
+    }, 
+    {
+        "": "rs797044433(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519468(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519467(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907978(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519466(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs767041069(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs202173526(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519465(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs370266293(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519464(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs797044434(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs772180415(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519463(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907980(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519462(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057521137(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519461(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs543071358(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1064794856(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519460(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs764343937(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs762060470(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519459(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs1057519458(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs748190164(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs773446161(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs987036804(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs121907960(-;-)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs190834116(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs1057518183(-;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1057519405(-;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs397514670(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1057518178(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs121918316(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs587780470(-;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1060503386(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1057519400(-;TT)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1060503383(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs797046029(C;TCTCCA)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs397515320(-;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs879253762(-;GT)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs587780474(-;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1064796547(-;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1064796033(-;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1064796403(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs869312674(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs797046030(-;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs869312955(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs869312677(-;TTGGCAG)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs797045012(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs121918315(A;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs397514741(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1085307871(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1057518352(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs797046031(G;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs863224930(-;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs1060503378(-;AG)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs797046028(-;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, type 5; SYNGAP1-related"
+    }, 
+    {
+        "": "rs63750082(C;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750301(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63749891(G;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750227(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750265(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750418(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63751287(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs121917807(A;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs267606983(C;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750687(C;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs63750687(C;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs281875357(GC;TG)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset (reported)"
+    }, 
+    {
+        "": "rs796052008(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs752898811(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs758008398(CATAAATT;CATAAATT)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs483352778(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs764173488(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs770810987(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs535411418(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs150675340(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs28942072(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs762374961(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs398123278(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs386833550(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs386833549(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs386833517(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Glycine encephalopathy; Non-ketotic hyperglycinemia"
+    }, 
+    {
+        "": "rs147324677(G;G)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs267606862(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs387906309(TATC;TATC)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs387906311(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs387906949(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease (predicted)"
+    }, 
+    {
+        "": "rs76173977(T;T)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Tay-Sachs disease"
+    }, 
+    {
+        "": "rs587777612(C;C)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Lymphoproliferative syndrome 1 (predicted)"
+    }, 
+    {
+        "": "rs727504022(A;A)", 
+        "magnitude": "8.8", 
+        "repute": "Bad", 
+        "summary": "Methylmalonic aciduria (predicted)"
+    }, 
+    {
+        "": "rs28938172(C;C)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset"
+    }, 
+    {
+        "": "rs74315351(A;A)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset"
+    }, 
+    {
+        "": "rs74315352(C;C)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset"
+    }, 
+    {
+        "": "rs74315353(C;C)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset"
+    }, 
+    {
+        "": "rs74315354(A;A)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset (likely)"
+    }, 
+    {
+        "": "rs137853051(T;T)", 
+        "magnitude": "8.7", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease, type 7, early-onset"
+    }, 
+    {
+        "": "rs864321630(T;T)", 
+        "magnitude": "8.3", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, syndromic 33, X-linked"
+    }, 
+    {
+        "": "rs864321628(C;C)", 
+        "magnitude": "8.3", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, syndromic 33, X-linked"
+    }, 
+    {
+        "": "rs864321631(C;C)", 
+        "magnitude": "8.3", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, syndromic 33, X-linked"
+    }, 
+    {
+        "": "rs864321629(T;T)", 
+        "magnitude": "8.3", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, syndromic 33, X-linked"
+    }, 
+    {
+        "": "rs864321627(C;C)", 
+        "magnitude": "8.3", 
+        "repute": "Bad", 
+        "summary": "Mental retardation, syndromic 33, X-linked"
+    }, 
+    {
+        "": "rs61751362(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs28934906(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs28935468(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs28934907(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs28934904(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs61748404(C;G)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs61748421(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs61749721(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs61750240(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Rett Syndrome (predicted)"
+    }, 
+    {
+        "": "rs797045009(A;C)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Severe congenital neutropenia, type 1, autosomal dominant"
+    }, 
+    {
+        "": "rs587779413(A;C)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Severe congenital neutropenia, type 1, autosomal dominant"
+    }, 
+    {
+        "": "rs387906553(A;G)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Severe congenital neutropenia, type 1, autosomal dominant"
+    }, 
+    {
+        "": "rs28931611(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Severe congenital neutropenia, type 1, autosomal dominant"
+    }, 
+    {
+        "": "rs137854450(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Severe congenital neutropenia, type 1, autosomal dominant"
+    }, 
+    {
+        "": "rs137854448(C;T)", 
+        "magnitude": "8.2", 
+        "repute": "Bad", 
+        "summary": "Maybe: Severe congenital neutropenia, type 1, autosomal dominant; see discussion"
+    }, 
+    {
+        "": "rs368313959(T;T)", 
+        "magnitude": "8.1", 
+        "repute": "Bad", 
+        "summary": "Intellectual disabilty syndrome with seizures and dysmorphias"
+    }, 
+    {
+        "": "rs201754030(T;T)", 
+        "magnitude": "8.1", 
+        "repute": "Bad", 
+        "summary": "Combined oxidative phosphorylation deficiency-3 likely"
+    }, 
+    {
+        "": "rs431905516(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs431905504(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs431905514(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs431905515(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs145138923(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs142637046(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs148234606(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs587777149(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "inherited C59 deficiency"
+    }, 
+    {
+        "": "rs587777149(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "inherited CD59 deficiency"
+    }, 
+    {
+        "": "rs267606687(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs267606685(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome"
+    }, 
+    {
+        "": "rs267606684(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs267606683(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs267606688(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs387906315(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gaucher disease"
+    }, 
+    {
+        "": "rs367543006(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs367543005(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs398122990(G;G)", 
+        "magnitude": "8", 
+        "repute": "", 
+        "summary": "Royal Disease Hemophilia B SNP"
+    }, 
+    {
+        "": "rs398122990(A;G)", 
+        "magnitude": "8", 
+        "repute": "", 
+        "summary": "“royal disease” also known as hemophilia B or Christmas disease"
+    }, 
+    {
+        "": "rs398124292(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs370596113(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs398124295(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs199826652(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Cystic Fibrosis; homozygote for delta F-508 mutation"
+    }, 
+    {
+        "": "rs398123126(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs398123127(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs397514657(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs397514538(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs398123067(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs398123068(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs398124641(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs397514658(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs397515963(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Likely severe cardiomyopathy"
+    }, 
+    {
+        "": "rs398122970(AAACCGCCCC;AAACCGCCCC)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Congenital heart and spine defects likely"
+    }, 
+    {
+        "": "rs398124296(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs201337954(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Homozygous for defective NGLY1 allele, leading to congenital disorder of deglycosylation (CDDG)"
+    }, 
+    {
+        "": "rs528583612(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Homozygous for defective NGLY1 allele, leading to congenital disorder of deglycosylation (CDDG)"
+    }, 
+    {
+        "": "rs587777265(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Homozygous for defective NGLY1 allele, leading to congenital disorder of deglycosylation (CDDG)"
+    }, 
+    {
+        "": "rs587777266(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Homozygous for defective NGLY1 allele, leading to congenital disorder of deglycosylation (CDDG)"
+    }, 
+    {
+        "": "rs587776982(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Homozygous for defective NGLY1 allele, leading to congenital disorder of deglycosylation (CDDG)"
+    }, 
+    {
+        "": "rs63749884(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimer's disease; penetrance not 100%"
+    }, 
+    {
+        "": "rs63750666(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimer's disease; penetrance unclear"
+    }, 
+    {
+        "": "rs63750218(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Alzheimers disease"
+    }, 
+    {
+        "": "rs63750526(A;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "early-onset Alzheimers disease"
+    }, 
+    {
+        "": "rs63750590(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "early onset Alzheimers disease"
+    }, 
+    {
+        "": "i4000292(D;D)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "cystic fibrosis"
+    }, 
+    {
+        "": "rs587777053(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs199624796(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs145588689(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Aicardi-Goutieres syndrome"
+    }, 
+    {
+        "": "rs144701072(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs786205056(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs762033589(TC;TC)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs145431028(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045198(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs754753126(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045196(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045195(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs752218005(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs370499474(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045197(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045194(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs778479139(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs527853872(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs767263985(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045193(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045192(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045191(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs199588390(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045190(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs752100894(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs202142867(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs138310841(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs767543051(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs143793815(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs769960006(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs373697663(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs749788626(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs121917967(A;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Dravet syndrome and severe epileptic seizure syndrome(s) possible"
+    }, 
+    {
+        "": "rs766328537(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs780936696(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs786204572(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs761064915(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs774323189(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "i5007022(A;G)", 
+        "magnitude": "8", 
+        "repute": "", 
+        "summary": "“royal disease” also known as hemophilia B or Christmas disease"
+    }, 
+    {
+        "": "i5007022(G;G)", 
+        "magnitude": "8", 
+        "repute": "", 
+        "summary": "“royal disease” also known as hemophilia B or Christmas disease"
+    }, 
+    {
+        "": "rs781923855(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs201779890(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "thrombocytopenia-absent radius syndrome"
+    }, 
+    {
+        "": "rs281865161(GA;TC)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, familial"
+    }, 
+    {
+        "": "rs63750973(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Considered pathogenic for an early-onset form of Alzheimer's disease"
+    }, 
+    {
+        "": "rs587776641(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs121918320(A;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs794727792(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs587784454(-;AT)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053359(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053355(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs121918318(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053353(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs886044141(-;AA)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs751170778(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs587777310(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053361(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs886041978(C;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs727504173(G;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs121918321(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs886041246(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs121918319(G;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053368(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs121918317(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs796053373(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early infantile epileptic encephalopathy, type 4"
+    }, 
+    {
+        "": "rs373145711(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Bohring-Opitz syndrome"
+    }, 
+    {
+        "": "rs74315401(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315402(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315406(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315410(G;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315413(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315414(A;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs137854552(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 1"
+    }, 
+    {
+        "": "rs749798211(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs587776890(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs63750231(A;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease (in some cases)"
+    }, 
+    {
+        "": "rs63750231(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "i5009999(D;I)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "BRCA1 (breast cancer) 185delAG carrier"
+    }, 
+    {
+        "": "rs374304304(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs201523601(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs199938613(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs796051931(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs751590073(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs369879957(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs769506424(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs770167670(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs796051928(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs796065306(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Dyskinesia, familial, with facial myokymia"
+    }, 
+    {
+        "": "rs796051932(TGGCACTGACCCGAGACTCTGAGCG;TGGCACTGACCCGAGACTCTGAGCG)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs879253962(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs76947760(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs63750083(A;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's; see discussion"
+    }, 
+    {
+        "": "rs144143780(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Sanfilippo syndrome type A"
+    }, 
+    {
+        "": "rs770947426(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Sanfilippo syndrome type A"
+    }, 
+    {
+        "": "rs797045199(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs374071862(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs782345472(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045200(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs375088539(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045201(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs754320812(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs797045202(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs368924997(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs63751297(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs137852870(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Maple Syrup Urine Disease likely"
+    }, 
+    {
+        "": "rs146922325(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Complete protein-C deficiency; severe thrombophilia"
+    }, 
+    {
+        "": "rs75391579(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Galactosemia (predicted); see discussion"
+    }, 
+    {
+        "": "rs112176450(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Late-onset Parkinson's disease"
+    }, 
+    {
+        "": "rs112176450(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Late-onset Parkinson's disease"
+    }, 
+    {
+        "": "rs111290936(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Late-onset Parkinson's disease (likely)"
+    }, 
+    {
+        "": "rs111290936(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Late-onset Parkinson's disease (likely)"
+    }, 
+    {
+        "": "rs267607069(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs267607068(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Infantile Parkinsonism-dystonia"
+    }, 
+    {
+        "": "rs28934578(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "info@snpedia.com would like to hear from you"
+    }, 
+    {
+        "": "rs28940279(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs28940574(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs28940585(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs28941472(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs28940286(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs28941473(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs28940287(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Argininosuccinate lyase deficiency"
+    }, 
+    {
+        "": "rs12948217(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted); note issue with microarray data though"
+    }, 
+    {
+        "": "rs104886461(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis type IV"
+    }, 
+    {
+        "": "rs113993960(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Cystic Fibrosis; homozygote for delta F-508 mutation"
+    }, 
+    {
+        "": "rs104894548(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs104894549(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs104894550(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs104894551(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs104894552(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs104894635(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Sanfilippo syndrome type A"
+    }, 
+    {
+        "": "rs104894637(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Sanfilippo syndrome type A"
+    }, 
+    {
+        "": "rs121918227(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Parkinson's mutation, type 9, early-onset"
+    }, 
+    {
+        "": "rs121918240(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs121918241(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs121918242(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs121918243(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "methylmalonic aciduria, cblC type"
+    }, 
+    {
+        "": "rs61761208(A;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's mutation (reported)"
+    }, 
+    {
+        "": "rs121917808(A;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease, early-onset, as reported"
+    }, 
+    {
+        "": "rs758570021(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs778363575(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs1064651(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "possibly Gaucher's disease, but more likely a mis-oriented interpretation"
+    }, 
+    {
+        "": "rs267606683(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs111033690(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Galactosemia (predicted); see discussion"
+    }, 
+    {
+        "": "rs863225081(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }, 
+    {
+        "": "rs863225082(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }, 
+    {
+        "": "rs863225079(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }
+]

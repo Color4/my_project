@@ -1,0 +1,2924 @@
+[
+    {
+        "": "rs80358027(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040220(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040226(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357309(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509152(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040218(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040216(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509151(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786202998(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358070(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs398122680(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040195(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040193(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509132(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040191(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040188(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038028(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876659708(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040166(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038025(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509098(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040159(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs879254023(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038021(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203884(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509085(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509081(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509079(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203438(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509072(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040130(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038012(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040126(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80356971(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040111(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040110(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038009(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203587(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509035(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs273899696(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786202534(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038007(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040090(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397507206(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878854941(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509023(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs879254027(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357295(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876658593(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509002(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508997(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508994(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508988(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038001(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587782628(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357003(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508983(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs398122662(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203523(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876658552(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508968(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508961(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357444(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357063(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508949(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357147(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040004(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357233(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876658306(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587781448(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587782709(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508929(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508926(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039987(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039984(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039981(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508909(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508903(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508902(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730881473(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039963(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730881471(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037990(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357427(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508877(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039957(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357167(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039947(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508854(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039939(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039939(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357046(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876660558(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853288(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508840(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508838(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508833(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037986(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037985(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508826(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040335(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509338(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs879255498(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040330(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730881468(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037980(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509330(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs273902792(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040321(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037979(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037977(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040313(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509308(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040263(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509173(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80356888(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040142(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80356936(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037972(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040054(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs398122661(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358083(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587781632(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357446(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357327(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357276(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357164(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80356880(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509331(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509299(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs200432771(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs747539984(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs138608489(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs774679104(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs781319410(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs142074233(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs562553169(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs199522616(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040298(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs273902769(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040284(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040275(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040270(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040267(-;CAAC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040264(-;TTAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509200(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040247(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038035(-;CC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040235(-;CC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040229(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038033(-;GG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040202(-;ATCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040187(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509109(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040153(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040138(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040113(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040096(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040095(-;GGAAAACTTTGA...)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040083(-;TC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040077(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040073(-;TTATCACTGCAG...)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040071(-;TA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508999(-;AC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038003(-;GGCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040057(-;GGCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040052(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853290(-;GC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508972(-;CCCCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040038(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040023(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040006(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039999(-;GA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357871(-;AGT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039992(-;TA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508924(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853289(-;CC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039975(-;TAGT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039973(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039961(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508878(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039934(-;CT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039931(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039923(-;TCAC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039921(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357569(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357690(-;GT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040322(-;TCCATGTGGA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040315(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040314(-;GTAACAAATACT...)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509101(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040112(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039971(-;GCGC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039950(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs483353092(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs483353086(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509297(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040299(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040299(-;CC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040296(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040295(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040293(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509245(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040283(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038042(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040278(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040273(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038041(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040268(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040264(-;ATTA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509217(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040259(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040254(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040253(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs864622132(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040243(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040242(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040239(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040225(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509164(-;AGAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357716(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509154(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509143(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509139(-;ATCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509131(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040190(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038030(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040176(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040174(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040167(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509108(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509092(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040157(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040154(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040151(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040148(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509083(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040143(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040127(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040121(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040120(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876660194(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357624(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040105(-;GA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040104(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040094(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040088(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509026(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853292(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040079(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040077(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853291(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040072(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040060(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508991(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203592(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040059(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357948(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040051(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040045(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508973(-;AAGTATCCAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508973(-;GTATCCAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508972(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040037(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040036(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040031(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037999(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs864622536(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040027(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508955(-;AGAGAGTAGCAGTATTTCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786204264(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040020(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397507197(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040016(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040014(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040012(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040002(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039998(-;TGCACCTGGTTCTTTTACTA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039996(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039995(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039993(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs863224510(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039989(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039977(-;AAATCTAAGCCCAC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039966(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508891(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508889(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039951(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508867(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039948(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039940(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357576(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039938(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203103(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039936(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786204260(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039935(-;AGCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039933(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397508841(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs876659396(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886037984(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040328(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040326(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040325(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040320(-;GCATGTGGAGC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509323(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040319(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040317(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs864622350(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587781487(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040250(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040224(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040212(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203432(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040152(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039990(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039969(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886039964(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509310(-;TGTC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357914(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509309(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs67284603(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs768401297(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs483353097(-;GGCAAACTTGTAC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs483353079(-;TAGCCCTGAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs777371832(-;AT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs761143251(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs767595162(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs753524038(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357783(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853286(AGG;CAACAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040305(-;CTACC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040302(-;AGTGCCAGGAGCTGGACACC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040304(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509296(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040301(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040297(-;AGGCACCTGTGGTGACCCGAGAGTG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040300(-;CGAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509291(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853296(-;GGTG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038046(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509288(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509286(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040294(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509270(-;GT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040292(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040291(-;GAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038045(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853286(-;insCAACAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509261(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587781825(-;GC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040289(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040287(-;GT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040286(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509255(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040285(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853285(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038043(-;GGACAGA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786202040(-;GACAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040277(-;CAGAGGAGATGTGGTCAATGGAAGAAACCACCAAGGTCCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040282(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040281(-;AGAAACCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040280(-;GTCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040279(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853295(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730882167(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040274(-;CAGTC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509233(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038040(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040271(-;TAGGAATT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040269(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs879255283(-;AC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040266(-;GAAGA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040265(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357580(-;CTAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040262(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040261(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040260(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509209(-;CTGGCCTGACCCCAGA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs879255295(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038038(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509207(-;AGA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040257(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509203(-;GA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038037(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040255(-;AGAAAGT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040256(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509201(-;TATAATGCAATGG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040252(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730880287(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040249(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038036(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040248(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040246(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509191(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040245(-;GAATCAGCCTC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040244(-;GGAATCAGCC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509188(-;CC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509187(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040241(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040240(-;GAAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040238(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509184(-;AGAGGAGCTCA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040236(-;ATCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs878853293(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509182(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038034(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040232(-;ACCAGTAAAAATAAAGAACCAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509180(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509179(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509176(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040231(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509174(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs273900730(-;CTA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs786203149(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509163(-;AT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040223(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040222(-;TTCCATC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040221(-;CT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040219(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040217(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040215(-;TA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040214(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040213(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040211(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509144(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040210(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509142(-;CTCTC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038032(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040209(-;TG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509141(-;CT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040208(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040206(-;ACAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040207(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040204(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509137(-;CT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040198(-;GCAAAGCATGGATTCAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040199(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040197(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509135(-;CAAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509134(-;TAATCAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040194(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040192(-;TAATC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509133(-;GAAAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509130(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040189(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038029(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509128(-;TCTG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509127(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040185(-;GAGTTGG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040184(-;CCAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040183(-;GAA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509123(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040182(-;GAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040181(-;AAAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs587782834(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040180(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040179(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040178(-;ATTG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040177(-;TCTT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509119(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040175(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509118(-;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509117(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040173(-;TT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038027(-;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040172(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357842(-;TGAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040170(-;TCAGGAACATC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509113(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040169(-;CTCAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs273900717(-;CTCAG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040168(-;ATCT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509110(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038024(-;AGGAGAAT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509106(-;GA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397507218(-;GG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357579(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs730881440(-;CA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040165(-;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509103(-;AA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80357645(-;GA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040164(-;GTCTA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs397509099(-;GT)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040163(-;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886038023(-;TTCTCAGTCTACTAGGCATAGCACCGTTGCTACC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs886040162(-;ATAGCACCGTTGC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }
+]

@@ -1,0 +1,2996 @@
+[
+    {
+        "": "rs80358219(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358220(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358221(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs193922916(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "significantly increased alzheimer's risk"
+    }, 
+    {
+        "": "i5007146(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "DBP deficiency"
+    }, 
+    {
+        "": "rs80358233(-;GAG)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Torsion dystonia"
+    }, 
+    {
+        "": "rs63749824(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "associated with Alzheimer's disease (either early- or late-onset)"
+    }, 
+    {
+        "": "rs80358233(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Torsion dystonia"
+    }, 
+    {
+        "": "rs587776706(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Mismatch repair cancer syndrome (predicted)"
+    }, 
+    {
+        "": "rs267606686(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere Syndrome; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs199474657(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "MELAS Syndrome"
+    }, 
+    {
+        "": "i15006212(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDPS1)"
+    }, 
+    {
+        "": "i5006214(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDPS1)"
+    }, 
+    {
+        "": "i6055954(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDPS1)"
+    }, 
+    {
+        "": "i5006215(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDPS1)"
+    }, 
+    {
+        "": "rs587777104(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777107(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777106(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777105(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777208(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777207(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587777103(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs587776426(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776425(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726111(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776419(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726091(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776417(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776415(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726075(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726073(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776413(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776411(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726126(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726122(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776407(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726118(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776405(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs61755320(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 7; however, possibly reduced penetrance"
+    }, 
+    {
+        "": "rs138924661(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Nephrotic syndrome type 7"
+    }, 
+    {
+        "": "rs63751449(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Lynch syndrome; hereditary nonpolyposis colorectal cancer-1"
+    }, 
+    {
+        "": "rs28934573(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "pathogenic/causal mutation for Li-Fraumeni syndrome"
+    }, 
+    {
+        "": "rs28934875(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "pathogenic/causal mutation for Li-Fraumeni syndrome"
+    }, 
+    {
+        "": "rs397509359(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Dystonia 3, X-linked"
+    }, 
+    {
+        "": "rs387907301(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "X-linked lymphoproliferative syndrome"
+    }, 
+    {
+        "": "rs397514767(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "inherited CD59 deficiency"
+    }, 
+    {
+        "": "rs267608255(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDPS1)"
+    }, 
+    {
+        "": "rs148591292(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic chondrodysplasia punctata type 1"
+    }, 
+    {
+        "": "rs180177136(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177132(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177127(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177124(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177122(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177121(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177113(CT;CT)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177112(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177111(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177103(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177100(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177098(TCT;TCT)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177097(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177091(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177083(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs141659620(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia 7"
+    }, 
+    {
+        "": "rs121908027(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypercholesterolemia"
+    }, 
+    {
+        "": "i4000356(D;D)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypercholesterolemia"
+    }, 
+    {
+        "": "rs62625307(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "rs62625306(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "rs41286296(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "rs375882485(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypertrophic cardiomyopathy mutation"
+    }, 
+    {
+        "": "rs397515963(-;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypertrophic cardiomyopathy mutation"
+    }, 
+    {
+        "": "i5046245(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypertrophic cardiomyopathy mutation"
+    }, 
+    {
+        "": "rs397516083(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "familial hypertrophic cardiomyopathy mutation"
+    }, 
+    {
+        "": "rs377280518(A;A)", 
+        "magnitude": "6.9", 
+        "repute": "Bad", 
+        "summary": "Argininemia/Hyperargininemia (predicted)"
+    }, 
+    {
+        "": "rs540839115(T;T)", 
+        "magnitude": "6.9", 
+        "repute": "Bad", 
+        "summary": "Spinocerebellar ataxia-24"
+    }, 
+    {
+        "": "rs1800312(C;C)", 
+        "magnitude": "6.8", 
+        "repute": "Bad", 
+        "summary": "Glycogen storage disease, type II"
+    }, 
+    {
+        "": "rs121909235(A;G)", 
+        "magnitude": "6.8", 
+        "repute": "Bad", 
+        "summary": "Glioma susceptibility; meningioma (indicated"
+    }, 
+    {
+        "": "rs137853583(A;A)", 
+        "magnitude": "6.7", 
+        "repute": "Bad", 
+        "summary": "Hemolytic anemia due to GPI deficiency"
+    }, 
+    {
+        "": "i3002432(A;A)", 
+        "magnitude": "6.7", 
+        "repute": "Bad", 
+        "summary": "6.7x increased risk of venous thromboembolism"
+    }, 
+    {
+        "": "rs13078881(C;C)", 
+        "magnitude": "6.7", 
+        "repute": "Bad", 
+        "summary": "Biotinidase deficiency; note ability to treat & variable penetrance"
+    }, 
+    {
+        "": "rs137853153(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Bloom syndrome; homozygote for mutation"
+    }, 
+    {
+        "": "rs113993962(-;-)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Bloom syndrome; homozygote for most common mutation"
+    }, 
+    {
+        "": "rs104894135(C;C)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894138(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894141(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894142(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894143(C;C)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894145(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894146(G;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894147(G;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894152(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894153(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894154(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894155(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs121909236(G;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Vater association with macrocephaly and ventriculomegaly; PTEN related disorder though?"
+    }, 
+    {
+        "": "rs77722678(C;C)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Hypochondroplasia"
+    }, 
+    {
+        "": "rs757972971(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Possible autism spectrum disorder genotype"
+    }, 
+    {
+        "": "rs781999115(A;A)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Cleft lip and palate; possible heart abnormalities"
+    }, 
+    {
+        "": "rs28931614(A;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs28931614(C;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i6010295(C;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs121913114(A;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i5001264(A;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs121913105(A;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i5001274(A;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i6010277(A;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs267606809(G;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism?"
+    }, 
+    {
+        "": "i5001267(G;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism?"
+    }, 
+    {
+        "": "i5053815(G;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i5001280(G;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "i6010281(G;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs75790268(A;C)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Achondroplasia/dwarfism"
+    }, 
+    {
+        "": "rs786205061(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs398122850(GCCGCC;GCCGCC)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "VACTERL association with hydrocephaly, X-linked"
+    }, 
+    {
+        "": "rs63750197(C;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "likely miscall for 23andMe and Ancestry users; otherwise, possible Alzheimer's disease association but causation unclear; dilated cardiomyopathy"
+    }, 
+    {
+        "": "rs367543012(T;T)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Bloom syndrome; homozygote for mutation"
+    }, 
+    {
+        "": "rs104894144(G;G)", 
+        "magnitude": "6.6", 
+        "repute": "Bad", 
+        "summary": "Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs35808389(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs34805604(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs74163686(A;C)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs33939927(C;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs33939927(C;T)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs33939927(A;C)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs34995376(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs35801418(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs281865052(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs281865054(G;T)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs35870237(C;T)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs104893877(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs431905511(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs104893875(A;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs104893878(C;G)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs188286943(C;T)", 
+        "magnitude": "6.5", 
+        "repute": "Bad", 
+        "summary": "Parkinson's disease mutation, adult-onset"
+    }, 
+    {
+        "": "rs199673455(C;C)", 
+        "magnitude": "6.4", 
+        "repute": "Bad", 
+        "summary": "hypertriglyceridemia"
+    }, 
+    {
+        "": "rs201011613(A;T)", 
+        "magnitude": "6.4", 
+        "repute": "Good", 
+        "summary": "Greatly reduced risk (~25 fold) for exfoliation syndrome"
+    }, 
+    {
+        "": "rs201011613(T;T)", 
+        "magnitude": "6.4", 
+        "repute": "Good", 
+        "summary": "Greatly reduced risk (~25 fold) for exfoliation syndrome"
+    }, 
+    {
+        "": "rs786205062(-;-)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs121434319(-;-)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs587776670(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs121909221(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs121909228(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs397515374(AT;TA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs786204864(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs869312778(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs869312779(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs869312780(-;AG)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121909222(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121909225(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121909226(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121913292(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776668(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776669(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776671(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776672(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776675(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121909218(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs121909223(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587783058(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Cowden syndrome"
+    }, 
+    {
+        "": "rs587776667(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Endometrial carcinoma (indicated)"
+    }, 
+    {
+        "": "rs587780006(-;TT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587781354(-;TT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782341(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782360(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782603(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782607(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786201995(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202517(AC;GG)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202733(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202840(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202529(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202894(-;GCGT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202918(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786203477(-;CT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204881(-;GA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204882(-;GATCGTTAGCAGAAACA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204883(-;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204884(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204890(T;AAG)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204892(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204894(-;TATC)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204895(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204898(-;AAGA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204899(-;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204901(-;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204902(-;AT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204903(-;TCAA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204904(-;CT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204905(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204906(-;GTGCA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876658171(-;AT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876658304(-;ATTT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876658837(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876660082(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876660507(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876660634(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121909220(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Lhermitte-Duclos disease"
+    }, 
+    {
+        "": "rs121909230(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Lhermitte-Duclos disease"
+    }, 
+    {
+        "": "rs1057524874(-;GA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs121909238(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs121909239(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs121909240(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs397514559(A;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs397514560(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs794729664(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs797045066(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs797045904(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs886044679(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs121909227(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome; Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs121909219(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome; Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs121909231(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome; Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs121909224(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome; Bannayan-Riley-Ruvalcaba syndrome"
+    }, 
+    {
+        "": "rs398123323(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Macrocephaly/autism syndrome"
+    }, 
+    {
+        "": "rs121909229(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121909229(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs1057517809(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs1057520208(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs1057520622(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs1057521060(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121913293(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121913294(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876659456(-;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204859(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121909232(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs138336847(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs398123315(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs398123317(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs398123320(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs398123330(-;CTTT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587776667(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587776668(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs727504114(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs746930141(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786201995(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204858(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204862(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204873(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204914(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204926(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204928(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204929(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204931(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786204933(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876658153(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876661009(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876661024(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876661058(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs876661060(-;CA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs878853012(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs886041332(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs886041816(-;CT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs886041877(A;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs371387815(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587781784(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587781912(-;AA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782304(-;TAAA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782350(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs587782455(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs767623493(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786202004(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs786203847(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs121913290(-;AA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Hereditary cancer predisposing syndrome"
+    }, 
+    {
+        "": "rs1060500114(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs1060500119(-;TG)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs1060500122(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs587781254(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs786204933(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs864622387(-;TAAAGACAAA)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs864622451(-;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs876661058(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853933(-;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853936(C;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853940(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853941(-;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853942(-;AT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs878853944(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs786201044(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs146650273(-;ACTT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs587776666(-;ACAAT)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs786204900(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs786204910(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs797044910(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs1057520900(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs587781255(A;G)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs730882131(C;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs121909241(G;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs587782187(A;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs121913289(-;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "PTEN hamartoma tumor syndrome"
+    }, 
+    {
+        "": "rs104894137(A;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894148(T;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894149(T;T)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894150(A;A)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs104894151(C;C)", 
+        "magnitude": "6.3", 
+        "repute": "Bad", 
+        "summary": "Combined partial 17-alpha-hydroxylase/17,20-lyase deficiency"
+    }, 
+    {
+        "": "rs137852885(A;A)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs137852884(A;A)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302854(T;T)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs281864956(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mcolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302856(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302858(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302849(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302850(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302853(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302859(-;-)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302852(C;C)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs1060499691(A;A)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs1060499690(A;A)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs119482081(A;G)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Hereditary sensory neuropathy, type 1"
+    }, 
+    {
+        "": "rs193302848(T;T)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302847(C;C)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302851(C;C)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302855(G;G)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302857(T;T)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs193302860(T;T)", 
+        "magnitude": "6.1", 
+        "repute": "Bad", 
+        "summary": "Mucolipidosis III gamma"
+    }, 
+    {
+        "": "rs142133355(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs145854903(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs141935559(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs150676454(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs149284013(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs148698100(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs142157346(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs146818694(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs140472905(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs138471431(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs149229839(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs143340609(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs141526971(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs138034837(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs143396368(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs139616452(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs149335881(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs144610605(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs148443992(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs144104124(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Friedreich's ataxia"
+    }, 
+    {
+        "": "rs281865192(G;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Leber Congenital Amaurosis (blindness)"
+    }, 
+    {
+        "": "rs5030861(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Phenylketonuria"
+    }, 
+    {
+        "": "rs5030857(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Phenylketonuria"
+    }, 
+    {
+        "": "rs5030855(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Phenylketonuria"
+    }, 
+    {
+        "": "rs5030853(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Phenylketonuria"
+    }, 
+    {
+        "": "rs138249161(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Hypomyelinating leukodystrophy, type 8"
+    }, 
+    {
+        "": "rs281865118(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "neurodegenerative disorder (ARSACS)"
+    }, 
+    {
+        "": "rs199847983(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Krabbe disease (likely)"
+    }, 
+    {
+        "": "rs267606861(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Tourette Syndrome mutation"
+    }, 
+    {
+        "": "rs80357906(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "i6055953(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type 1 (RCDP1)"
+    }, 
+    {
+        "": "rs746838237(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Polycystic kidney disease"
+    }, 
+    {
+        "": "rs606231163(C;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "neurodegenerative disorder (ARSACS)"
+    }, 
+    {
+        "": "rs63750690(GGACC;TTA)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Lynch syndrome, pathogenic mutation"
+    }, 
+    {
+        "": "i5003257(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Myotonia congenita; degree varies widely"
+    }, 
+    {
+        "": "i60563649(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Myotonia congenita; quite variable in degree"
+    }, 
+    {
+        "": "i5003258(A;A)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Myotonia congenita; quite variable in degree"
+    }, 
+    {
+        "": "i5003255(T;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Myotonia congenita; quite variable in degree"
+    }, 
+    {
+        "": "rs386833395(-;AG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 (breast cancer) 185delAG carrier"
+    }, 
+    {
+        "": "rs41293465(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "i5009383(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs41293497(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "i5010626(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "i5009343(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 breast cancer pathogenic mutation"
+    }, 
+    {
+        "": "rs28897686(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "rs1800747(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 pathogenic mutation associated with breast cancer"
+    }, 
+    {
+        "": "rs1800747(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "i5009520(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "i5010082(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA1 variant considered to be pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358391(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358435(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358498(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358515(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358529(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358546(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358561(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358717(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358809(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358810(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358884(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358913(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358959(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358998(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs276174902(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80359068(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80359234(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358407(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358411(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358413(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358419(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358427(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358428(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358429(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358434(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358438(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358452(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358455(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358456(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358461(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358464(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358464(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358471(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358472(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358474(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358476(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358485(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358494(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358503(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358504(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs276174823(-;TAAATG)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358516(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358518(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358532(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358533(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358538(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358543(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358544(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358552(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358556(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358557(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs79728106(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358573(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358578(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358579(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358579(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358593(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358595(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358615(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358620(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358623(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358631(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358632(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358638(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358641(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358641(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358644(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358648(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358652(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358658(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358659(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358663(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Likely miscall if from 23andMe data; otherwise, BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358665(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358670(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358683(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358692(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358695(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358710(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358711(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358719(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358721(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358721(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358735(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358740(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "Likely miscall in Ancestry data; otherwise, BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358746(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358751(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358754(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358757(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358763(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358767(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358778(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs276174859(AG;TC)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358783(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358785(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358785(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358789(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358790(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358806(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs56253082(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358807(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358814(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358815(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358824(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358825(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358828(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358831(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358838(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358840(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358843(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358844(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358851(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358856(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358859(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358864(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358870(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358875(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358883(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358892(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358893(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs276174876(G;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358901(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358920(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358928(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358936(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358943(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs276174889(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358946(A;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358951(C;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358971(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358972(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358981(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358993(A;C)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358994(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358997(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80358999(C;T)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80359003(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80359004(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }, 
+    {
+        "": "rs80359011(A;G)", 
+        "magnitude": "6", 
+        "repute": "Bad", 
+        "summary": "BRCA2 variant considered pathogenic for breast cancer"
+    }
+]

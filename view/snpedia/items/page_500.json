@@ -1,0 +1,2990 @@
+[
+    {
+        "": "rs863225082(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }, 
+    {
+        "": "rs863225079(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }, 
+    {
+        "": "rs863225080(A;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder-associated mutation"
+    }, 
+    {
+        "": "rs1057516879(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs767666474(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057517291(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516583(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs786204620(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516962(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057521115(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs199565861(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516416(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516498(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516315(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516995(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057517066(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs377217076(G;G)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057517085(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs375736464(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057517450(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057516309(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs1057517260(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Canavan disease (predicted)"
+    }, 
+    {
+        "": "rs879254305(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs782095095(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs1064795599(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 2 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs761224042(C;C)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs1057524605(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs794728004(-;-)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs1060499531(A;A)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Brown-Vialetto-Van Laere syndrome type 1 mutation; riboflavin treatment recommended"
+    }, 
+    {
+        "": "rs63750307( )", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early Onset Alzheimer's"
+    }, 
+    {
+        "": "rs63750307(-;ATCATG)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease (predicted)"
+    }, 
+    {
+        "": "rs1060505041(C;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination"
+    }, 
+    {
+        "": "rs202085145(T;T)", 
+        "magnitude": "8", 
+        "repute": "Bad", 
+        "summary": "Sulfite oxidase deficiency (predicted)"
+    }, 
+    {
+        "": "rs387906709(T;T)", 
+        "magnitude": "7.9", 
+        "repute": "Bad", 
+        "summary": "Heterogeneous neurodegeneration disorder"
+    }, 
+    {
+        "": "rs387906709(A;C)", 
+        "magnitude": "7.9", 
+        "repute": "Bad", 
+        "summary": "Amyotrophic lateral sclerosis, type 15"
+    }, 
+    {
+        "": "rs387906709(C;T)", 
+        "magnitude": "7.9", 
+        "repute": "Bad", 
+        "summary": "Heterogenous neurodegeneration disorder"
+    }, 
+    {
+        "": "rs387906709(A;A)", 
+        "magnitude": "7.9", 
+        "repute": "Bad", 
+        "summary": "Amyotrophic lateral sclerosis, type 15"
+    }, 
+    {
+        "": "rs762281715(A;A)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Schwartz Jampel syndrome type 1"
+    }, 
+    {
+        "": "rs1057519289(T;T)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 78"
+    }, 
+    {
+        "": "rs1057519290(-;-)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 78"
+    }, 
+    {
+        "": "rs1057519291(T;T)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 78"
+    }, 
+    {
+        "": "rs1057519293(T;T)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 78"
+    }, 
+    {
+        "": "rs1057519292(T;T)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Spastic paraplegia, type 78"
+    }, 
+    {
+        "": "rs778653296(A;A)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Schwartz Jampel syndrome type 1"
+    }, 
+    {
+        "": "rs886039909(A;A)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Schwartz Jampel syndrome type 1"
+    }, 
+    {
+        "": "rs886041667(-;-)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Schwartz Jampel syndrome type 1"
+    }, 
+    {
+        "": "rs137853248(A;A)", 
+        "magnitude": "7.8", 
+        "repute": "Bad", 
+        "summary": "Schwartz Jampel syndrome type 1"
+    }, 
+    {
+        "": "rs128624213(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624214(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624215(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624216(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624217(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624218(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624219(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624220(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624221(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624222(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624223(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624224(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624225(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs4010613(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs111033171(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "Familial dysautonomia"
+    }, 
+    {
+        "": "rs11146842(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs193922097(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs193922098(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs193922093(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; \"probable pathogenic\" in ClinVar"
+    }, 
+    {
+        "": "rs28939712(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "Familial dysautonomia"
+    }, 
+    {
+        "": "rs886044777(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs863223797(-;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "Thoracic aortic aneurysm (potential causative mutation)"
+    }, 
+    {
+        "": "rs797044610(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs797044726(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs797044781(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs150346282(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs201568579(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs186031457(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "Propionic acidemia likely"
+    }, 
+    {
+        "": "rs398123110(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123100(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123102(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123105(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123106(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123107(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123108(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs387906497(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy mutation"
+    }, 
+    {
+        "": "rs1057517954(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123112(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy"
+    }, 
+    {
+        "": "rs1057516052(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs387906496(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy"
+    }, 
+    {
+        "": "rs387906494(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy"
+    }, 
+    {
+        "": "rs387906495(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs74315278(-;-)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123110(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781797609(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs74315280(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs373957035(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs1057517954(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs1057517954(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs1057516052(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782567718(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781951552(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782230740(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781948018(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782760033(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782747420(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781904944(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782509393(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782509393(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782635828(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs868934170(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs868934170(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs868911300(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782178199(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782726660(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs727503786(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782567454(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs74315277(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs141446687(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782158792(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782370364(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782370364(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624223(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624224(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs145073701(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781862879(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs398123105(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs201114595(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs781924420(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs146525445(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782325478(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782325478(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs4010613(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs4010613(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs202125585(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs201427153(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs886044887(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs886044882(A;A)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs782311214(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs727503786(G;G)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs128624215(T;T)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "X-linked adrenoleukodystrophy; symptoms and age of onset highly variable"
+    }, 
+    {
+        "": "rs137853022(C;C)", 
+        "magnitude": "7.7", 
+        "repute": "Bad", 
+        "summary": "Familial dysautonomia"
+    }, 
+    {
+        "": "rs121434259(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs121434261(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs587776562(G;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs121434260(-;TTC)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs1060503667(C;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs1060503670(A;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315495(G;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs1060503666(A;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315496(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs794728682(A;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315497(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315499(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315501(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315503(G;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315504(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315505(G;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315493(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs74315494(A;C)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs878853925(A;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Neurofibromatosis, type 2"
+    }, 
+    {
+        "": "rs121907900(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs121907908(A;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs121907906(C;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs587776574(-;G)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs587776573(-;TGTCATTTGGTATAAAT)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs1060501253(-;C)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs121907911(A;C)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Wilms tumor susceptibility (predicted)"
+    }, 
+    {
+        "": "rs146795505(C;C)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Meier-Gorlin syndrome 3"
+    }, 
+    {
+        "": "rs869025321(G;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Lamb-shaffer syndrome"
+    }, 
+    {
+        "": "rs17215500(T;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "LQT1 form of Long QT syndrome; Jervell and Lange-Nielsen syndrome"
+    }, 
+    {
+        "": "rs17847577(T;T)", 
+        "magnitude": "7.5", 
+        "repute": "Bad", 
+        "summary": "Werner's Syndrome"
+    }, 
+    {
+        "": "rs869312034(A;G)", 
+        "magnitude": "7.4", 
+        "repute": "Bad", 
+        "summary": "Ehlers-Danlos syndrome, type 4; see discussion"
+    }, 
+    {
+        "": "rs587779548(C;G)", 
+        "magnitude": "7.4", 
+        "repute": "Bad", 
+        "summary": "Ehlers-Danlos syndrome, type 4"
+    }, 
+    {
+        "": "rs121434528(C;T)", 
+        "magnitude": "7.1", 
+        "repute": "Bad", 
+        "summary": "Thoracic aortic aneurysm and dissection (TAAD) mutation"
+    }, 
+    {
+        "": "rs869312880(A;G)", 
+        "magnitude": "7.1", 
+        "repute": "Bad", 
+        "summary": "Hereditary spastic paraplegia, type 31"
+    }, 
+    {
+        "": "rs757326350(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Male infertility (reported)"
+    }, 
+    {
+        "": "rs63750671(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Significantly increased risk for early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751039(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Significantly increased risk for Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750868(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Considered a pathogenic mutation for Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750734(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pathogenic mutation for Alzheimer disease"
+    }, 
+    {
+        "": "rs63750399(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Mutation considered pathogenic for Alzheimer disease"
+    }, 
+    {
+        "": "rs63750399(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Mutation considered pathogenic for Alzheimer disease"
+    }, 
+    {
+        "": "rs777923890(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Early onset Alzheimer's association specifically in African-Americans?"
+    }, 
+    {
+        "": "rs398122413(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs74315415(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Gerstmann–Straussler–Scheinker syndrome"
+    }, 
+    {
+        "": "rs80265967(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Associated with forms of Amyotrophic Lateral Sclerosis"
+    }, 
+    {
+        "": "rs796053137(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Complex pediatric neurologic issues including seizures; see discussion"
+    }, 
+    {
+        "": "rs794727152(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Infantile spasms; early-onset epileptic encephalopathies"
+    }, 
+    {
+        "": "rs386833624(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Neuronal ceroid lipofuscinosis, type 1 (predicted)"
+    }, 
+    {
+        "": "rs172151858(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Progressive familial heart block type 1B (Brugada syndrome)"
+    }, 
+    {
+        "": "rs200038418(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Progressive familial heart block type 1B (Brugada syndrome)"
+    }, 
+    {
+        "": "rs201907325(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Progressive familial heart block type 1B (Brugada syndrome)"
+    }, 
+    {
+        "": "rs267607142(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Progressive familial heart block type 1B (Brugada syndrome)"
+    }, 
+    {
+        "": "rs387907216(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Progressive familial heart block type 1B (Brugada syndrome)"
+    }, 
+    {
+        "": "rs180177102(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177133(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177135(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776410(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781560(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177092(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177099(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177126(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177131(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177143(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726124(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726117(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726104(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726071(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726067(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726060(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776422(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776421(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776416(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587778584(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177138(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726065(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776423(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177084(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177090(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726081(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726086(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs515726123(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786204156(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786204122(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177085(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177116(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs180177134(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587780210(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587780211(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781411(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781697(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781840(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781890(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782081(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782443(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782680(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782892(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881865(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881866(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881867(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881869(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881870(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881871(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881872(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs751415161(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs753153576(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786201773(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203057(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203244(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203399(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203488(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203892(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776406(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776408(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776409(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776412(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776414(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776418(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776420(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776424(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776427(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776428(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs104886460(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Gaucher disease"
+    }, 
+    {
+        "": "rs767167623(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs770815049(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs368263958(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Autosomal recessive polycystic kidney disease"
+    }, 
+    {
+        "": "rs797045135(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs587777102(-;-)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Pulmonary venoocclusive disease"
+    }, 
+    {
+        "": "rs193026789(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs606231220(-;CCTG)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs606231221(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs794729669(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs794729670(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs794729671(-;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs794729672(-;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia mutation"
+    }, 
+    {
+        "": "rs139644798(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "hypomyelinating Leukodystrophy"
+    }, 
+    {
+        "": "rs104894073(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Atrial septal defect, type 2"
+    }, 
+    {
+        "": "rs397515870(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fabry disease"
+    }, 
+    {
+        "": "rs397515870(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fabry disease"
+    }, 
+    {
+        "": "rs587782050(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587776527(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786202008(TCCCTGTGCCAAAGAGA;TCCCTGTGCCAAAGAGA)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203775(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782570(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781457(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881868(GTTG;GTTG)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203382(TCAGA;TCAGA)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs764509489(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881888(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786204129(AGAGGAAGCTGTATTTTTC;AGAGGAAGCTGTATTTTTC)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786202439(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881876(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587780206(TG;TG)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203346(TT;TT)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203714(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782446(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203821(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782232(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs756660214(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881905(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782531(TA;TA)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587782005(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881879(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881897(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs786203245(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs730881884(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs587781662(CG;CG)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622192(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622138(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622481(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs863224521(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622301(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622695(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs864622498(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs387906590(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs121912679(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs387906589(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs387906588(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs121912680(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs121912678(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs387906591(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fibrodysplasia ossificans progressiva"
+    }, 
+    {
+        "": "rs794726665(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Ellis-van Creveld syndrome"
+    }, 
+    {
+        "": "rs28904921(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "~8 fold increase in relative risk for breast cancer"
+    }, 
+    {
+        "": "rs755101354(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Possible (pathogenic) for early-onset Alzheimer's"
+    }, 
+    {
+        "": "rs775145486(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs574125890(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs200754713(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia (reported)"
+    }, 
+    {
+        "": "rs63749810(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750066(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750851(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease (possible)"
+    }, 
+    {
+        "": "rs63750264(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease mutation"
+    }, 
+    {
+        "": "rs63750264(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease mutation"
+    }, 
+    {
+        "": "rs63750264(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease mutation"
+    }, 
+    {
+        "": "rs63749964(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Maybe: Alzheimer's disease; possible miscall for 23andMe users though"
+    }, 
+    {
+        "": "rs63751122(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750151(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "i5039800(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750579(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Cerebral Amyloid Angiopathy"
+    }, 
+    {
+        "": "rs63749967(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750325(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751399(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Frontotemporal dementia (reported)"
+    }, 
+    {
+        "": "rs63749962(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63749962(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750450(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750730(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750730(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported)"
+    }, 
+    {
+        "": "rs63750550(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750550(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63749805(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63749805(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751272(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751272(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751106(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751106(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750004(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750004(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750306(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750306(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750306(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750391(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported; but see discussion)"
+    }, 
+    {
+        "": "rs63750391(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported; but see discussion)"
+    }, 
+    {
+        "": "rs63750391(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease (reported; but see discussion)"
+    }, 
+    {
+        "": "rs63750907(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751441(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63751484(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63750299(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "i5047649(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs63749911(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Alzheimer's disease"
+    }, 
+    {
+        "": "rs200067423(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Trichohepatoenteric syndrome"
+    }, 
+    {
+        "": "rs115799546(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Multiple sclerosis/malignant melanoma mutation genotype"
+    }, 
+    {
+        "": "rs775129424(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Possible Parkinson's disease mutation"
+    }, 
+    {
+        "": "rs367855127(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Possible early-onset Alzheimer's disease mutation; see discussion"
+    }, 
+    {
+        "": "rs200411226(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs267606908(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs1060501474(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs121913630(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs121913633(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs786204338(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs397516212(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs121913632(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs199476317(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs74315379(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs121964856(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Hypertrophic Cardiomyopathy"
+    }, 
+    {
+        "": "rs267607048(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan-like syndrome with loose anagen hair"
+    }, 
+    {
+        "": "rs730881020(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan-like syndrome with loose anagen hair"
+    }, 
+    {
+        "": "rs397517159(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs137852814(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397517149(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs137852813(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397517172(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397517164(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs137852813(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs80338797(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs80338799(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397516813(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397516830(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs121434594(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs3730271(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs80338796(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs727505017(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397516826(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs80338799(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507503(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs121918459(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507520(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507525(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs376607329(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs28933386(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs121918457(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507547(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs121918470(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507550(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894360(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894359(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894364(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894366(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs727503110(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894365(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894361(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507483(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121913341(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs180177040(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs397507479(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs180177035(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs180177034(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs397507465(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121913355(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs104894227(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Costello syndrome"
+    }, 
+    {
+        "": "rs727503093(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Costello syndrome"
+    }, 
+    {
+        "": "rs121917758(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Costello syndrome"
+    }, 
+    {
+        "": "rs104894228(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Costello syndrome"
+    }, 
+    {
+        "": "rs104894229(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Costello syndrome"
+    }, 
+    {
+        "": "rs727504382(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs727504370(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121434499(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs267607230(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Likely miscall in DNA chip (microarray) data such as from Ancestry, 23andMe or others; otherwise, Rasopathy, Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121434497(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121434498(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121908594(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs397516790(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs727504317(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs397516791(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs397516793(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs121908595(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rasopathy; Cardio-facio-cutaneous syndrome"
+    }, 
+    {
+        "": "rs137852812(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs3730271(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397516826(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs104894366(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs397507520(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Noonan syndrome"
+    }, 
+    {
+        "": "rs548204329(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Possible spastic paraplegia mutation?"
+    }, 
+    {
+        "": "rs483352909(C;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Much higher risk for colorectal cancer"
+    }, 
+    {
+        "": "rs397514632(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Significantly higher risk for colorectal and endometrial cancer"
+    }, 
+    {
+        "": "rs146530638(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs201212113(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs201038430(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs1052471(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs199700312(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs201503929(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs143340270(G;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs397514633(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs201010746(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer; endometrial cancer risk also elevated"
+    }, 
+    {
+        "": "rs200403177(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs5744760(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs116162724(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs139075637(A;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs138207610(A;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs143690372(C;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "High risk of colorectal cancer"
+    }, 
+    {
+        "": "rs533813519(A;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Early-onset Alzheimer's disease (predicted as possible)"
+    }, 
+    {
+        "": "i4000446(D;D)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Torsion dystonia"
+    }, 
+    {
+        "": "rs104893915(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Several bone disorders associated with this genotype"
+    }, 
+    {
+        "": "rs113994095(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "POLG-related disorders, including ataxias"
+    }, 
+    {
+        "": "rs113994097(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Ataxias, including spinocerebellar ataxia"
+    }, 
+    {
+        "": "rs113994098(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "POLG-related disorders, including ataxias"
+    }, 
+    {
+        "": "rs118203997(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs118203998(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "rs118203999(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Fanconi anemia, complementation group N"
+    }, 
+    {
+        "": "i5007145(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "DBP deficiency"
+    }, 
+    {
+        "": "rs63750245(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Lynch syndrome; hereditary nonpolyposis colorectal cancer-1"
+    }, 
+    {
+        "": "rs121434369(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "glutaric acidemia type I"
+    }, 
+    {
+        "": "rs121908012(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Congenital erythropoietic porphyria (predicted)"
+    }, 
+    {
+        "": "rs121909153(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic chondrodysplasia punctata type 1"
+    }, 
+    {
+        "": "rs121909154(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic chondrodysplasia punctata type 1"
+    }, 
+    {
+        "": "rs121918145(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Protein-C deficiency; autosomal recessive"
+    }, 
+    {
+        "": "rs121964896(AA;AA)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs121964897(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs6025(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "11.4x higher risk of thrombosis"
+    }, 
+    {
+        "": "rs28934880(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs28897696(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "carrier of two copies of BRCA1 variant; likely to be at high risk for breast/ovarian cancer"
+    }, 
+    {
+        "": "rs1799963(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "6.74x risk of thrombosis; 2-20x risk for cerebral stroke if PFO+"
+    }, 
+    {
+        "": "rs61753238(G;G)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Rhizomelic Chondrodysplasia Punctata Type I disorder"
+    }, 
+    {
+        "": "rs63750875(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Lynch syndrome; hereditary nonpolyposis colorectal cancer (HNPCC1)"
+    }, 
+    {
+        "": "rs80265967(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "Associated with forms of Amyotrophic Lateral Sclerosis"
+    }, 
+    {
+        "": "rs80358216(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358217(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358218(C;C)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358219(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358220(A;A)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs80358221(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "3HSDB2 deficiency; congenital adrenal hyperplasia"
+    }, 
+    {
+        "": "rs193922916(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "significantly increased alzheimer's risk"
+    }, 
+    {
+        "": "i5007146(T;T)", 
+        "magnitude": "7", 
+        "repute": "Bad", 
+        "summary": "DBP deficiency"
+    }
+]
